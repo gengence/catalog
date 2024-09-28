@@ -1,2 +1,2 @@
 # discordassetdownloader
-Downloads Assets from Discord Links.
+Downloads Assets from Discord Links in Rust.
