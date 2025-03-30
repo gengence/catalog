@@ -1,2 +1,2 @@
 # catalog
-A Catalog of Open-source General Intelligence Programs and Scripts.
+A Catalog of Open-source General Intelligence programs and scripts.
