@@ -1,2 +1,2 @@
 # catalog
-A Catalog of Open-source G.I. programs and scripts.
+A catalog of open-source G.I. programs and scripts.
